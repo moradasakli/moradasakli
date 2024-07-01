@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Any relevant to software engineering**
+- 💬 Ask me about **Anything relevant to software engineering**
 
 - 📫 How to reach me **moradasakli@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cyj6XxWy4UGqKNDQBUjpDC_waNCrPWMY/view?usp=sharing](https://drive.google.com/file/d/1cyj6XxWy4UGqKNDQBUjpDC_waNCrPWMY/view?usp=sharing)
 
-- ⚡ Fun fact **I can make anyone laugh**
+- ⚡ Fun fact **: I can make anyone laugh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
