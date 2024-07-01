@@ -1,7 +1,7 @@
 ![MasterHead](https://pbs.twimg.com/media/EkreGKQXgAIg9aj.jpg)
 
 <h1 align="center">Hi 👋, I'm Morad Asakli</h1>
-<h3 align="center">A dedicated software engineering student from Israel</h3>
+<h3 align="center">A dedicated software engineer student from Israel</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_t5XuoXIVylLCPjghNbh5GSD0wRC86DBSA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moradasakli&label=Profile%20views&color=0e75b6&style=flat" alt="moradasakli" /> </p>
